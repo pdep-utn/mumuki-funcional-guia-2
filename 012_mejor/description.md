@@ -9,5 +9,4 @@ Main> mejor cuadrado triple 1
 ```haskell
 Main> mejor cuadrado triple 5
 25
-True
 ```
