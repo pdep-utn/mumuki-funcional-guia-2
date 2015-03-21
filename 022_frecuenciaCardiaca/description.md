@@ -7,13 +7,14 @@ frecuenciaCardiaca = [80, 100, 120, 128, 130, 123, 125]
 ```
 
 Lo que significa que: 
- 1. Comienza con un frecuencia de 80 min 0. 
- 1. A los 10 min la frecuencia alcanza los 100 
- 1. a los 20 min la frecuencia es de 120, 
- 1. A los 30 min la frecuencia es de 128 
- 1. A los 40 min la frecuencia es de 130, 
- 1. etc... 
- 1. A los 60 min la frecuenca es de 125 
+
+1. Comienza con un frecuencia de 80 min 0. 
+1. A los 10 min la frecuencia alcanza los 100 
+1. a los 20 min la frecuencia es de 120, 
+1. A los 30 min la frecuencia es de 128 
+1. A los 40 min la frecuencia es de 130, 
+1. etc... 
+1. A los 60 min la frecuenca es de 125 
 
 
 Definir la función ```promedioFrecuenciaCardiaca```,  que devuelve el promedio de la frecuencia cardiaca.
