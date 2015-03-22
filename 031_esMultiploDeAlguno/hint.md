@@ -1,0 +1,1 @@
+Utilizar ```any/2```.
