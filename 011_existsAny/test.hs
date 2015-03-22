@@ -1,6 +1,3 @@
-describe "existsAny" $ do
-  it "devuelve False dados even y (1,3,5)" $ do
-    existsAny even (1,3,5) `shouldBe` False
-
-  it "devuelve True dados (0>) y (1,-3,7)" $ do
-    existsAny (0>) (1,-3,7) `shouldBe` True
+describe "promediosSinAplazos" $ do
+  it "devuelve [7,5] dados y [[5,9],[6,2,4]]" $ do
+    promediosSinAplazos [[5,9],[6,2,4]] `shouldBe` [7,5]
