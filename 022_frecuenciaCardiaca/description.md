@@ -24,7 +24,7 @@ Main> promedioFrecuenciaCardiaca
 115.285714285714
 ```
 
-Definir la función ```frecuenciaCardiacaMinuto/1```,   que recibe m que es el minuto en el cual 
+Definir la función ```frecuenciaCardiacaMomento/1```,   que recibe m que es el minuto en el cual 
 quiero conocer la frecuencia cardíaca, m puede ser a los 10, 20, 30 ,40,..hasta 60.
 
 ```haskell
@@ -32,7 +32,7 @@ Main> frecuenciaCardiacaMomento 30
 128 
 ```
 
-Definir la función ```frecuenciaHastaMomento/1```, devuelve el total de frecuencias que se 
+Definir la función ```frecuenciasHastaMomento/1```, devuelve el total de frecuencias que se 
 obtuvieron hasta el minuto m.
 
 ```haskell
