@@ -5,4 +5,3 @@ promedios de cada lista-elemento. P.ej.
 Main> promedios [[8,6],[7,9,4],[6,2,4],[9,6]] 
 [7,6.67,4,7.5] 
 ```
-nota: implementar una solucion utilizando ```map/2```.
