@@ -6,4 +6,5 @@ P.ej.
 Main> promediosSinAplazos [[8,6],[6,2,4]] 
 [7,5] 
 ```
-Nota: implementar una solucion utilizando ```map/2```.
+
+**Nota**: Asumir que se dispone de una función `average` que devuelve el promedio de una lista
