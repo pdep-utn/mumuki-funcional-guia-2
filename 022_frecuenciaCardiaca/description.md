@@ -21,7 +21,7 @@ Definir la función ```promedioFrecuenciaCardiaca```,  que devuelve el promedio 
 
 ```haskell
 Main> promedioFrecuenciaCardiaca 
-115.285714285714
+115.14285714285714
 ```
 
 Definir la función ```frecuenciaCardiacaMomento/1```,   que recibe m que es el minuto en el cual 
