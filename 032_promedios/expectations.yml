@@ -1,0 +1,5 @@
+expectations:
+ - binding: promedios
+   inspection: HasBinding
+ - binding: promedios
+   inspection: HasUsage:map

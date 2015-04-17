@@ -1,0 +1,11 @@
+expectations:
+ - binding: promedioSinAplazos
+   inspection: HasBinding
+ - binding: promedioSinAplazos
+   inspection: HasUsage:average
+ - binding: promedioSinAplazos
+   inspection: HasUsage:map
+ - binding: promedioSinAplazos
+   inspection: HasUsage:filter
+ - binding: promedioSinAplazos
+   inspection: HasComposition
