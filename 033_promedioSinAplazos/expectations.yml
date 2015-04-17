@@ -1,6 +1,8 @@
 expectations:
  - binding: promedioSinAplazos
    inspection: HasBinding
+ - binding: average
+   inspection: Not:HasBinding
  - binding: promedioSinAplazos
    inspection: HasUsage:average
  - binding: promedioSinAplazos
