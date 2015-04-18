@@ -1,0 +1,5 @@
+expectations:
+ - binding: aplicarFunciones
+   inspection: HasBinding
+ - binding: aplicarFunciones
+   inspection: HasTypeSignature
