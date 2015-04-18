@@ -1,0 +1,5 @@
+expectations:
+ - binding: cuandoHabloMasMinutos
+   inspection: HasBinding
+ - binding: cuandoHizoMasLlamadas
+   inspection: HasBinding
