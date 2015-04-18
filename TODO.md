@@ -1,27 +1,3 @@
-3.9. Definir la función hayAlgunNegativo/2, que dada una lista de números y un (...algo...)
-devuelve True si hay algún nro. negativo.
-
-```haskell
-Main> hayAlgunNegativo [2,-3,9] (...algo...)
-True
-```
-
-3.10. Definir , y escribir el tipo de la función aplicarFunciones/2, que dadas una lista de funciones y un valor
-cualquiera, devuelve la lista del resultado de aplicar las funciones al valor. P.ej.
-
-```haskell
-Main> aplicarFunciones[(*4),(+3),abs] (-8)
-[-32,-5,8]
-```
-
-3.11. Definir la función sumaF/2, que dadas una lista de funciones y un número, devuelve la
-suma del resultado de aplicar las funciones al número. P.ej.
-
-```haskell
-Main> sumaF[(*4),(+3),abs] (-8)
--29
-```
-
 3.12. Un programador Haskell está haciendo las cuentas para un juego de fútbol virtual (como el
 Hattrick o el ManagerZone). En un momento le llega la información sobre la habilidad de cada
 jugador de un equipo, que es un número entre 0 y 12, y la orden de subir la forma de todos los
