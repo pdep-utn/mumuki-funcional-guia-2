@@ -1,4 +1,4 @@
-describe "promedioSinAplazos" $ do 
+describe "promediosSinAplazos" $ do 
   it "promediosSinAplazos de [[8,6],[6,2,4]] es [7,5]" $ do
     promediosSinAplazos [[8,6],[6,2,4]] `shouldBe` [7,5]
     
