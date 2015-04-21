@@ -1,11 +1,8 @@
-Definir la función `aprobó`, que dada la lista de las notas de un alumno devuelve si el alumno aprobó. Se dice que un alumno aprobó si todas sus notas son 4 o más. Ejemplo:
+Definir la función `divisores , que recibe un número y devuelve la lista de divisores. Ejemplo:
 
 ```Haskell
-Main> aprobo [8,6,2,4]
-False
-
-Main> aprobo [7,9,4,5]
-True
+Main> divisores 60
+[1,2,3,4,5,6,10,12,15,20,30,60]
 ```
 
 **Nota**: resolverlo utilizando funciones de orden superior
