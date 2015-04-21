@@ -2,7 +2,7 @@
 cabo en un período determinado, discriminadas en horario normal y horario reducido.
 
 ```haskell
-duracionLlamadas = (("horarioReducido", [20,10,25,15]), ("horarioNormal", [10,5,8,2,9,10])).
+duracionLlamadas = (("horarioReducido", [20,10,25,15]), ("horarioNormal", [10,5,8,2,9,10]))
 ```
 
 Definir la función `cuandoHabloMasMinutos`, devuelve en que horario se habló más
@@ -20,3 +20,5 @@ cantidad de llamadas, en el de tarifa normal o en el reducido.
 Main> cuandoHizoMasLlamadas
 "horarioNormal"
 ```
+
+**Nota**: asumir que la constante `duracionLlamadas` ya se encuentra definida
