@@ -7,3 +7,5 @@ expectations:
    inspection: HasBinding
  - binding: cuandoHizoMasLlamadas
    inspection: HasUsage:duracionLlamadas
+ - binding: duracionLlamadas
+   inspection: Not:HasBinding
