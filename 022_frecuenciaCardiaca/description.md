@@ -39,3 +39,5 @@ obtuvieron hasta el minuto m.
 Main> frecuenciasHastaMomento 30 
 [80, 100, 120, 128] 
 ```
+
+**Nota**: Asumir que `frecuenciaCardiaca` ya se encuentra definida. 
