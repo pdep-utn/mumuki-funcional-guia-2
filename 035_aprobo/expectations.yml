@@ -2,4 +2,4 @@ expectations:
  - binding: aprobo
    inspection: HasBinding
  - binding: aprobo
-   inspection: HasUsage:any
+   inspection: HasUsage:all
