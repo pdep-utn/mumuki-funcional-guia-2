@@ -1,0 +1,1 @@
+aprobo  = all (>=4)
