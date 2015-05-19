@@ -6,7 +6,7 @@ describe "mejoresNotas" $ do
     mejoresNotas [[8,6,2,4],[9,6,7,10]] `shouldBe` [8,10]
 
   it "mejoresNotas [] == []" $ do
-    mejoresNotas [] `shouldBe` []
+    mejoresNotas [] `shouldBe` ([] :: [Int])
 
   it "mejoresNotas [[5, 10]] == [10]" $ do
     mejoresNotas [[5, 10]] `shouldBe` [10]
