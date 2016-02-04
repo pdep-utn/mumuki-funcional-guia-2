@@ -1,1 +1,1 @@
-pending
+it "contiene 4

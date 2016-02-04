@@ -1,0 +1,1 @@
+Tip: hay una función que sabe decirnos si una lista es vacía. Se llama `null`
