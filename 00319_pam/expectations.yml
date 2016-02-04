@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: aplicarFunciones
+- binding: pam
   inspection: HasBinding
-- binding: aplicarFunciones
+- binding: pam
   inspection: HasTypeSignature

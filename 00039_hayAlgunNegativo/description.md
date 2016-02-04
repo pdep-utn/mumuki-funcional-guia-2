@@ -5,4 +5,4 @@ Main> hayAlgunNegativo [2,-3,9]
 True
 ```
 
-**Nota**: Resolverlo utilizando orden superior, point free y aplicación parcial
+**Nota**: Resolverlo utilizando orden superior y aplicación parcial

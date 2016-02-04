@@ -6,3 +6,5 @@ expectations:
   inspection: HasUsage:any
 - binding: hayAlgunNegativo
   inspection: Not:HasConditional
+- binding: ''
+  inspection: ''
