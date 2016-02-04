@@ -6,3 +6,5 @@ expectations:
   inspection: HasComposition
 - binding: promedioSegun
   inspection: HasTypeSignature
+- binding: ''
+  inspection: ''
