@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: rotar
+  inspection: HasBinding

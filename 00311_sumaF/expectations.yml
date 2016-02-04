@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: sumaF
+  inspection: HasBinding
+- binding: sumaF
+  inspection: HasUsage:aplicarFunciones
+- binding: aplicarFunciones
+  inspection: Not:HasBinding
+- binding: sumaF
+  inspection: HasComposition

@@ -1,5 +1,0 @@
-expectations:
- - binding: aprobo
-   inspection: HasBinding
- - binding: aprobo
-   inspection: HasUsage:all

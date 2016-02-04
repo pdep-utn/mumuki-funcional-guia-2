@@ -1,0 +1,12 @@
+---
+expectations:
+- binding: exists
+  inspection: HasBinding
+- binding: exists
+  inspection: Not:HasUsage:any
+- binding: exists
+  inspection: Not:HasDirectRecursion
+- binding: exists
+  inspection: Not:HasConditional
+- binding: ''
+  inspection: ''

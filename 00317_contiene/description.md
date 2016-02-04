@@ -1,0 +1,1 @@
+Escribir y dar el tipo de la función `contiene` que dado un elemento y una lista, nos diga si la lista contiene al elemento. 

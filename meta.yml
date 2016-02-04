@@ -1,3 +1,30 @@
-name: 'Práctica Listas'
+---
+name: Práctica Listas
 locale: es
+type: practice
+beta: false
 language: haskell
+id_format: '%05d'
+order:
+- 21
+- 38
+- 22
+- 23
+- 24
+- 31
+- 32
+- 33
+- 34
+- 35
+- 36
+- 37
+- 39
+- 310
+- 311
+- 312
+- 313
+- 314
+- 315
+- 316
+- 317
+- 318

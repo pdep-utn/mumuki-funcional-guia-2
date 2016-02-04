@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: hayAlgunNegativo
+  inspection: HasBinding
+- binding: hayAlgunNegativo
+  inspection: HasUsage:any
+- binding: hayAlgunNegativo
+  inspection: Not:HasConditional

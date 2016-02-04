@@ -1,7 +1,0 @@
-expectations:
- - binding: aprobaron
-   inspection: HasBinding
- - binding: aprobaron
-   inspection: HasUsage:aprobo
- - binding: aprobaron
-   inspection: HasUsage:filter
