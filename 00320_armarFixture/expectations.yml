@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: armarFixture
+  inspection: HasUsage:zipWith
+- binding: armarFixture
+  inspection: HasBinding
+- binding: armarFixture
+  inspection: HasTypeSignature
