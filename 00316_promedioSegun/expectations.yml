@@ -1,4 +1,8 @@
 ---
 expectations:
-- binding: ''
-  inspection: ''
+- binding: promedioSegun
+  inspection: HasBinding
+- binding: promedioSegun
+  inspection: HasComposition
+- binding: promedioSegun
+  inspection: HasTypeSignature

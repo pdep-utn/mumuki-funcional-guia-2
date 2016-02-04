@@ -6,3 +6,5 @@ Ejemplo:
 ム promedioSegun (length.show) ["hola", "adios"]
 4.5  -- porque es 4 + 5 / 2
 ```
+
+Usá composición y escribí su tipo. 
