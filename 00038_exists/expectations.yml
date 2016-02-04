@@ -10,3 +10,5 @@ expectations:
   inspection: Not:HasConditional
 - binding: exists
   inspection: HasTypeSignature
+- binding: ''
+  inspection: ''
