@@ -5,4 +5,4 @@ describe "sumarSegun" $ do
     sumarSegun id [2,1,7] `shouldBe` 10
 
   it "devuelve 4 dados (length.show) y \"hola\"" $ do
-    sumarSegun (length.show) "hola" `shouldBe` 4
+    sumarSegun (length.show) "hola" `shouldBe` 12
