@@ -6,3 +6,5 @@ expectations:
   inspection: HasTypeSignature
 - binding: rechazar
   inspection: HasComposition
+- binding: ''
+  inspection: ''
