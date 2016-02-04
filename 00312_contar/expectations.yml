@@ -1,4 +1,8 @@
 ---
 expectations:
-- binding: ''
-  inspection: ''
+- binding: contar
+  inspection: HasTypeSignature
+- binding: contar
+  inspection: HasBinding
+- binding: contar
+  inspection: HasComposition
