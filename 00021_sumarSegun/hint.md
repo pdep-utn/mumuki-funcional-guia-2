@@ -1,0 +1,1 @@
+Existe una función `sum` de tipo `Num a => [a] -> a` que podría ayudarte. 
