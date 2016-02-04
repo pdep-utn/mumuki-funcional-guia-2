@@ -1,4 +1,8 @@
 ---
 expectations:
-- binding: ''
-  inspection: ''
+- binding: rechazar
+  inspection: HasBinding
+- binding: rechazar
+  inspection: HasTypeSignature
+- binding: rechazar
+  inspection: HasComposition
