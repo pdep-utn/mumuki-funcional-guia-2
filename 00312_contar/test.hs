@@ -6,4 +6,4 @@ it "contar (>6) [2, 3, 5] == 0" $ do
   
   
 it "contar (id) [True, True, True] == 1" $ do 
-  contar id [True, True, True] `shouldBe` 1
+  contar id [True, True, True] `shouldBe` 3
