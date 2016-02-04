@@ -2,5 +2,3 @@
 expectations:
 - binding: promedioEntero
   inspection: HasComposition
-- binding: ''
-  inspection: ''
