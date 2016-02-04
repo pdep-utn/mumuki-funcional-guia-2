@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: sumarSegun
+  inspection: HasTypeSignature
+- binding: ''
+  inspection: ''

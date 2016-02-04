@@ -8,5 +8,5 @@ expectations:
   inspection: Not:HasDirectRecursion
 - binding: exists
   inspection: Not:HasConditional
-- binding: ''
-  inspection: ''
+- binding: exists
+  inspection: HasTypeSignature
