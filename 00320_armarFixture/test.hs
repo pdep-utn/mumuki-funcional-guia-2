@@ -2,4 +2,4 @@ it "armarFixture [\"boca\", \"river\", \"racing\"] [\"river\", \"velez\", \"inde
     armarFixture ["boca", "river", "racing"] ["river", "velez", "independiente"]  `shouldBe` [("boca", "river"), ("river", "velez"), ("racing", "independiente")] 
     
 it "armarFixture [\"boca\"] [\"boca\"]  == [] " $ do
-    armarFixture ["boca"] ["boca"]  `shouldBe` [] 
+    armarFixture ["boca"] ["boca"]  `shouldBe` ([] :: [(String, String)]) 
