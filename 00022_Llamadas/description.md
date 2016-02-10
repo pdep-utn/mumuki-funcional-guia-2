@@ -14,3 +14,5 @@ Y nos pidieron que obtengamos algas estadíticas:
 > cuandoHabloMas ([1, 10, 10], [2])
 > "normal"
 >```
+> 
+> Si en los dos habló la misma cantidad de minutos, da lo mismo responder `"reducido"` o `"normal"`

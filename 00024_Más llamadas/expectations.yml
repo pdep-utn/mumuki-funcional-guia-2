@@ -1,12 +1,24 @@
 ---
 expectations:
-- binding: cuandoHabloMasMinutos
-  inspection: HasBinding
-- binding: cuandoHabloMasMinutos
-  inspection: HasUsage:duracionLlamadas
-- binding: cuandoHizoMasLlamadas
+- binding: cuandoHabloMas
   inspection: HasBinding
 - binding: cuandoHizoMasLlamadas
-  inspection: HasUsage:duracionLlamadas
-- binding: duracionLlamadas
-  inspection: Not:HasBinding
+  inspection: HasBinding
+- binding: cuandoHizoLaLLamadaMasLarga
+  inspection: HasBinding
+- binding: cuandoHizoMasLLamadasBreves
+  inspection: HasBinding
+- binding: cuandoHabloMas
+  inspection: Not:HasGuards
+- binding: cuandoHizoMasLlamadas
+  inspection: Not:HasGuards
+- binding: cuandoHizoLaLLamadaMasLarga
+  inspection: Not:HasGuards
+- binding: cuandoHizoMasLLamadasBreves
+  inspection: Not:HasGuards
+- binding: cuandoHizoMasLLamadasBreves
+  inspection: length
+- binding: cuandoHabloMas
+  inspection: sum
+- binding: cuandoHizoMasLlamadas
+  inspection: length
