@@ -1,6 +1,0 @@
----
-expectations:
-- binding: frecuenciaCardiaca
-  inspection: Not:HasBinding
-- binding: ''
-  inspection: ''
