@@ -8,14 +8,6 @@ expectations:
   inspection: HasBinding
 - binding: cuandoHizoMasLLamadasBreves
   inspection: HasBinding
-- binding: cuandoHabloMas
-  inspection: Not:HasGuards
-- binding: cuandoHizoMasLlamadas
-  inspection: Not:HasGuards
-- binding: cuandoHizoLaLLamadaMasLarga
-  inspection: Not:HasGuards
-- binding: cuandoHizoMasLLamadasBreves
-  inspection: Not:HasGuards
 - binding: cuandoHizoMasLLamadasBreves
   inspection: length
 - binding: cuandoHabloMas
