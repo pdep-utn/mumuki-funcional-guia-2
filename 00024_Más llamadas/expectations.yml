@@ -10,5 +10,3 @@ expectations:
   inspection: HasUsage:duracionLlamadas
 - binding: duracionLlamadas
   inspection: Not:HasBinding
-- binding: ''
-  inspection: ''

@@ -1,25 +1,13 @@
+Ah, no tan rápido, tenemos más requerimientos, similares al anterior. Queremos saber:
 
-e tiene información detallada de la duración en minutos de las llamadas que se llevaron a
-cabo en un período determinado, discriminadas en horario normal y horario reducido.
+* `cuandoHizoMasLlamadas`: en cual de los dos horarios tuvo mayor cantidad de llamadas
+* `cuandoHizoLaLLamadaMasLarga`: en cual de los dos horarios hizo la llamada de mayor duración
+* `cuandoHizoMasLLamadasBreves`: en cual de los dos horarios hizo más llamadas de menos de dos minutos
+* `cuandoHabloMas`: nuestro requerimiento anterior, por supuesto
 
-```haskell
-duracionLlamadas = (("horarioReducido", [20,10,25,15]), ("horarioNormal", [10,5,8,2,9,10]))
-```
+> Escribí las cuatro funciones anteriores
 
-Definir la función `cuandoHabloMasMinutos`, devuelve en que horario se habló más
-cantidad de minutos, en el de tarifa normal o en el reducido.
+Pará, pará, ¿en serio tengo que escribir las cuatro? ¡Si son casi iguales! Es simplemente repetir la misma lógica que hice en el problema anterior 4 veces. 
 
-```haskell
-Main> cuandoHabloMasMinutos
-"horarioReducido"
-```
+> Aham... escribí las cuatro funciones anteriores, sin repetir lógica entre las cuatro, claro :wink:
 
-Definir la función `cuandoHizoMasLlamadas`, devuelve en que franja horaria realizó más
-cantidad de llamadas, en el de tarifa normal o en el reducido.
-
-```haskell
-Main> cuandoHizoMasLlamadas
-"horarioNormal"
-```
-
-**Nota**: asumir que la constante `duracionLlamadas` ya se encuentra definida

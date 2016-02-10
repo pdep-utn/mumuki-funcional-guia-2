@@ -1,0 +1,7 @@
+Te va a convenir generalizar las cuatro funciones a una sóla que que parametrice lo diferente. 
+
+Y luego, definir cada función original de forma que use a la versión generica. 
+
+Y si no te das cuenta de la repeticion de lógica, no hay problema: escribilas de la primera forma que se te ocurra y luego fijate en qué se parecen. 
+
+_siempre podés usar en tu beneficio a los errores que te vamos señalando_

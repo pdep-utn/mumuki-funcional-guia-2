@@ -2,3 +2,5 @@
 expectations:
 - binding: cuandoHabloMas
   inspection: HasBinding
+- binding: ''
+  inspection: ''
