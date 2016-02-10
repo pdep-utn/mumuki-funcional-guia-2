@@ -6,6 +6,7 @@ En la compañía telefónica _FunTel_ modelan la histora de llamadas del usuario
 Y nos pidieron que obtengamos algas estadíticas:
 
 > Desarrollá la función `cuandoHabloMas`, que devuelve el usuario habló más cantidad de minutos:
+>
 > ```haskell
 > cuandoHabloMas ([1, 1, 3, 5, 1], [32,20,5])
 > "reducido"
