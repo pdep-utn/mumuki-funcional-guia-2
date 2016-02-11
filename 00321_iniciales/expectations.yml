@@ -2,5 +2,3 @@
 expectations:
 - binding: iniciales
   inspection: HasBinding
-- binding: ''
-  inspection: ''
