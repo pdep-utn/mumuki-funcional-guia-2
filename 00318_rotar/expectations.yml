@@ -2,5 +2,3 @@
 expectations:
 - binding: rotar
   inspection: HasBinding
-- binding: ''
-  inspection: ''
