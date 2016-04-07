@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: mejoresNotas
   inspection: HasUsage:maximum
+- binding: mejoresNotas
+  inspection: Not:HasDirectRecursion
