@@ -11,7 +11,7 @@ describe "exists" $ do
   it "exists (>0) [] == False" $ do
     exists (>0) [] `shouldBe` False
 
-  it "exists ((>5).length) ["hola"] == False" $ do
+  it "exists ((>5).length) [\"hola\"] == False" $ do
     exists ((>5).length) ["hola"] `shouldBe` False
 
 
