@@ -12,3 +12,5 @@ Main> esMultiploDeAlguno 34 [3,4,5]
 False 
 ```
 porque 34 no es múltiplo de ninguno de los 3 
+
+> Nota: ya se dispone de una función esMultiploDe/2 que puede ser usada en la definición.
