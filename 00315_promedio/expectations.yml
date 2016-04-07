@@ -2,3 +2,5 @@
 expectations:
 - binding: promedio
   inspection: HasTypeSignature
+- binding: promedio
+  inspection: HasComposition
