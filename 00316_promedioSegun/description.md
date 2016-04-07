@@ -7,6 +7,6 @@ Ejemplo:
 4.5  -- porque es 4 + 5 / 2
 ```
 
-Usá composición y escribí su tipo. 
+Usá composición. 
 
 > Nota: asumí que la función promedio ya existe tal como se explica en el ejercicio anterior.
