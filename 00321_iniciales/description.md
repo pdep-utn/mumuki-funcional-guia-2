@@ -13,3 +13,5 @@ Ah, tené en cuenta que si la palabra es de un sólo carácter, no tiene que ser
 ム iniciales "programación orientada a objetos"
 "poo"
 ```
+
+Resolverla usando **composición, aplicación parcial y orden superior**.

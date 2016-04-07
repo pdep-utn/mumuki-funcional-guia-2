@@ -2,3 +2,7 @@
 expectations:
 - binding: iniciales
   inspection: HasBinding
+- binding: iniciales
+  inspection: HasComposition
+- binding: iniciales
+  inspection: Not:HasDirectRecursion
