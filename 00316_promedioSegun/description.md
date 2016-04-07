@@ -8,3 +8,5 @@ Ejemplo:
 ```
 
 Usá composición y escribí su tipo. 
+
+> Nota: asumí que la función promedio ya existe tal como se explica en el ejercicio anterior.
