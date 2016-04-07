@@ -1,0 +1,1 @@
+Puede usarse la función ```ceiling```. Probala en la consola mandándole un Float :wink:
