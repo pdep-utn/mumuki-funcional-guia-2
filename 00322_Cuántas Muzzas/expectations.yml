@@ -2,7 +2,5 @@
 expectations:
 - binding: cuantasMuzzas
   inspection: HasBinding
-  verb: 
 - binding: cuantasMuzzas
   inspection: HasComposition
-  verb: 

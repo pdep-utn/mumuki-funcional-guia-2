@@ -5,7 +5,7 @@ Y para cerrar, vamos a presentar a una última función amiga que viene con Hask
 [5, 7]  -- porque hace 1 + 4 y 2 + 5
 ```
 
-> Sabiendo esto, definí una función `armarFixture`, que tome dos listas de equipos de fútbol, y arme los partidos (un par de dos equipos).  Ejemplo:
+> Sabiendo esto, definí y declará el tipo para la función `armarFixture`, que tome dos listas de equipos de fútbol, y arme los partidos (un par de dos equipos).  Ejemplo:
 >
 > ```haskell
 > ム armarFixture ["boca", "river", "racing"] ["river", "velez", "independiente"]
