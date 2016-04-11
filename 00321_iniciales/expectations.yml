@@ -6,3 +6,5 @@ expectations:
   inspection: HasComposition
 - binding: iniciales
   inspection: Not:HasDirectRecursion
+- binding: iniciales
+  inspection: HasTypeSignature
