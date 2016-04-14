@@ -1,6 +1,6 @@
 ---
 expectations:
-- inspection: Not:HasDirectRecursion
-  binding: esCapicua
+- binding: esCapicua
+  inspection: Not:HasDirectRecursion
 - binding: esCapicua
   inspection: HasBinding
