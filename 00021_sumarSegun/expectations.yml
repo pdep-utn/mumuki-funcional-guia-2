@@ -2,3 +2,5 @@
 expectations:
 - binding: sumarSegun
   inspection: HasTypeSignature
+- binding: sumarSegun
+  inspection: Not:HasDirectRecursion

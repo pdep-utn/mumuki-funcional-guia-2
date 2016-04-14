@@ -1,0 +1,6 @@
+---
+expectations:
+- inspection: Not:HasDirectRecursion
+  binding: esMultiploDeAlguno
+- binding: esMultiploDeAlguno
+  inspection: HasBinding
