@@ -2,5 +2,5 @@
 expectations:
 - binding: promedioEntero
   inspection: HasBinding
-- inspection: Not:HasDirectRecursion
-  binding: promedioEntero
+- binding: promedioEntero
+  inspection: Not:HasDirectRecursion

@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: cuantasMuzzas
   inspection: HasComposition
+- binding: cuantasMuzzas
+  inspection: Not:HasDirectRecursion

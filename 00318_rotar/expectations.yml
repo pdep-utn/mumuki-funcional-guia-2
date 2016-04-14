@@ -2,3 +2,5 @@
 expectations:
 - binding: rotar
   inspection: HasBinding
+- binding: rotar
+  inspection: Not:HasDirectRecursion

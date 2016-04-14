@@ -6,3 +6,5 @@ expectations:
   inspection: HasBinding
 - binding: armarFixture
   inspection: HasTypeSignature
+- binding: armarFixture
+  inspection: Not:HasDirectRecursion
