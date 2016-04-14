@@ -6,3 +6,5 @@ expectations:
   inspection: HasComposition
 - binding: promedio
   inspection: Not:HasBinding
+- inspection: Not:HasDirectRecursion
+  binding: promedioSegun

@@ -2,3 +2,7 @@
 expectations:
 - binding: contiene
   inspection: HasTypeSignature
+- binding: contiene
+  inspection: HasBinding
+- binding: contiene
+  inspection: Not:HasDirectRecursion

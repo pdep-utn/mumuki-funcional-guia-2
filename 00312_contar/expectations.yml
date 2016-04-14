@@ -6,3 +6,5 @@ expectations:
   inspection: HasBinding
 - binding: contar
   inspection: HasComposition
+- inspection: Not:HasDirectRecursion
+  binding: contar

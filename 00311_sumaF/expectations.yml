@@ -8,3 +8,5 @@ expectations:
   inspection: Not:HasBinding
 - binding: sumaF
   inspection: HasComposition
+- binding: sumaF
+  inspection: Not:HasDirectRecursion

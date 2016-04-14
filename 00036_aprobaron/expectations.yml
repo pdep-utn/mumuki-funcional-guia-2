@@ -6,5 +6,5 @@ expectations:
   inspection: HasUsage:aprobo
 - binding: aprobaron
   inspection: HasUsage:filter
-- inspection: Not:HasDirectRecursion
-  binding: aprobaron
+- binding: aprobaron
+  inspection: Not:HasDirectRecursion
