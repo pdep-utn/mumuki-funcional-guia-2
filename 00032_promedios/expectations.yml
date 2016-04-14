@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: promedios
   inspection: HasUsage:map
+- binding: promedios
+  inspection: Not:HasDirectRecursion

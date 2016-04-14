@@ -14,11 +14,11 @@ expectations:
   inspection: sum
 - binding: cuandoHizoMasLlamadas
   inspection: length
-- inspection: Not:HasDirectRecursion
-  binding: cuandoHabloMas
-- inspection: Not:HasDirectRecursion
-  binding: cuandoHizoMasLlamadas
-- inspection: Not:HasDirectRecursion
-  binding: cuandoHizoLaLLamadaMasLarga
-- inspection: Not:HasDirectRecursion
-  binding: cuandoHizoMasLLamadasBreves
+- binding: cuandoHabloMas
+  inspection: Not:HasDirectRecursion
+- binding: cuandoHizoMasLlamadas
+  inspection: Not:HasDirectRecursion
+- binding: cuandoHizoLaLLamadaMasLarga
+  inspection: Not:HasDirectRecursion
+- binding: cuandoHizoMasLLamadasBreves
+  inspection: Not:HasDirectRecursion

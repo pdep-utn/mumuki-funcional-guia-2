@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: aprobo
   inspection: HasUsage:all
+- binding: aprobo
+  inspection: Not:HasDirectRecursion

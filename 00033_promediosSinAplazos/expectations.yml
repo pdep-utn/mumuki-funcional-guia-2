@@ -12,3 +12,5 @@ expectations:
   inspection: HasUsage:filter
 - binding: promediosSinAplazos
   inspection: HasComposition
+- inspection: Not:HasDirectRecursion
+  binding: promediosSinAplazos
