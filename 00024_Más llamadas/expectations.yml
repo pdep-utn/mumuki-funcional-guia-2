@@ -4,11 +4,11 @@ expectations:
   inspection: HasBinding
 - binding: cuandoHizoMasLlamadas
   inspection: HasBinding
-- binding: cuandoHizoLaLLamadaMasLarga
+- binding: cuandoHizoLaLlamadaMasLarga
   inspection: HasBinding
-- binding: cuandoHizoMasLLamadasBreves
+- binding: cuandoHizoMasLlamadasBreves
   inspection: HasBinding
-- binding: cuandoHizoMasLLamadasBreves
+- binding: cuandoHizoMasLlamadasBreves
   inspection: length
 - binding: cuandoHabloMas
   inspection: sum
@@ -18,7 +18,7 @@ expectations:
   inspection: Not:HasDirectRecursion
 - binding: cuandoHizoMasLlamadas
   inspection: Not:HasDirectRecursion
-- binding: cuandoHizoLaLLamadaMasLarga
+- binding: cuandoHizoLaLlamadaMasLarga
   inspection: Not:HasDirectRecursion
-- binding: cuandoHizoMasLLamadasBreves
+- binding: cuandoHizoMasLlamadasBreves
   inspection: Not:HasDirectRecursion
