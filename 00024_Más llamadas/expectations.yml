@@ -9,11 +9,11 @@ expectations:
 - binding: cuandoHizoMasLlamadasBreves
   inspection: HasBinding
 - binding: cuandoHizoMasLlamadasBreves
-  inspection: length
+  inspection: HasUsage:length
 - binding: cuandoHabloMas
-  inspection: sum
+  inspection: HasUsage:sum
 - binding: cuandoHizoMasLlamadas
-  inspection: length
+  inspection: HasUsage:length
 - binding: cuandoHabloMas
   inspection: Not:HasDirectRecursion
 - binding: cuandoHizoMasLlamadas
