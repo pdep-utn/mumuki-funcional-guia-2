@@ -2,7 +2,7 @@ Definí la función `pam`, que es... como el `map` pero al revés :stuck_out_ton
 
 ```haskell
 ム pam [(+3), (*2)] 2 
-[5, 6]
+[5, 4]
 ム pam [id, not, not] True 
 [True, False, False]
 ```
