@@ -11,4 +11,4 @@ expectations:
 - binding: exists
   inspection: HasTypeSignature
 - binding: "*"
-  inspection: Except:HasRedundantParameter
+  inspection: Except:Saraza
