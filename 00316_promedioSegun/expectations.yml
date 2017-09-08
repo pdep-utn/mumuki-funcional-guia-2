@@ -8,3 +8,5 @@ expectations:
   inspection: Not:HasBinding
 - binding: promedioSegun
   inspection: Not:HasDirectRecursion
+- binding: "*"
+  inspection: Except:HasRedundantParameter
