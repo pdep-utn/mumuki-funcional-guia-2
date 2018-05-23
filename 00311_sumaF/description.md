@@ -2,7 +2,7 @@ Definir la función `sumaF`, que dadas una lista de funciones y un número, devu
 suma del resultado de aplicar las funciones al número. Por ejemplo:
 
 ```haskell
-Main> sumaF [(*4),(+3),abs] (-8)
+ム sumaF [(*4),(+3),abs] (-8)
 -29
 ```
 
