@@ -3,7 +3,7 @@ Se quiere saber cuántas pizzas completas de muzzarella hay que pedir, sabiendo 
 _Ejemplo:_
 
 ```haskell
-Main> cuantasMuzzas [("fugaza",1), ("muzza",2), ("muzza",3), ("fugaza",1), ("morrone",1), ("muzza",4)]
+ム cuantasMuzzas [("fugaza",1), ("muzza",2), ("muzza",3), ("fugaza",1), ("morrone",1), ("muzza",4)]
 2
 ```
 
