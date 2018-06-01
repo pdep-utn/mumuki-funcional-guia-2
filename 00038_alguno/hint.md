@@ -1,0 +1,1 @@
+La función `filter` te puede ayudar a resolver este ejercicio.

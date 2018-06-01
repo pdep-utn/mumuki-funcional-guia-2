@@ -1,12 +1,12 @@
 ---
 expectations:
-- binding: exists
+- binding: alguno
   inspection: HasBinding
-- binding: exists
+- binding: alguno
   inspection: Not:HasUsage:any
-- binding: exists
+- binding: alguno
   inspection: Not:HasDirectRecursion
-- binding: exists
+- binding: alguno
   inspection: Not:HasConditional
-- binding: exists
+- binding: alguno
   inspection: HasTypeSignature
