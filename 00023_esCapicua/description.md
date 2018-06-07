@@ -7,6 +7,4 @@ True
 ム esCapicua ["yo","no","soy","capicua"]
 False
 
-ム esCapicua [[123],[443],[21]]
-True
 ```
