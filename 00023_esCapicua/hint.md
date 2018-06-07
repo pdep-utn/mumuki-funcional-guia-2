@@ -1,1 +1,1 @@
-Utilizar ```concat/1```, ```reverse/1.```
+Utilizar `concat`, `reverse`

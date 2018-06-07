@@ -1,6 +1,12 @@
-Definir la función ```esCapicua/1```, que dada una lista de listas, me devuelve si la concatenación de las sublistas es una lista capicua.
+Definí la función `esCapicua`, que dada una lista de listas, me devuelve si la concatenación de las sublistas es una lista capicua.
 
-```
-Main> esCapicua ["ne","uqu","en"]
+```haskell
+ム esCapicua ["ne","uqu","en"]
+True
+
+ム esCapicua ["yo","no","soy","capicua"]
+False
+
+ム esCapicua [[123],[443],[21]]
 True
 ```
