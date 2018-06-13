@@ -10,6 +10,6 @@ describe "esCapicua" $ do
     it "devuelve True dada repeticiones de una letra" $ do
         (esCapicua ["aa","aaa","aaaa"]) `shouldBe` True
     it "devuelve True dado 123454321" $ do
-        (esCapicua [[12],[345],[432],[1]]) `shouldBe` True
+        (esCapicua [[1,2],[3,4,5],[4,3,2],[1]]) `shouldBe` True
     it "devuelve True dado 1234554321" $ do
-        (esCapicua [[12],[3455],[432],[1]]) `shouldBe` True
+        (esCapicua [[1,2],[3,4,5,5],[4,3,2],[1]]) `shouldBe` True
