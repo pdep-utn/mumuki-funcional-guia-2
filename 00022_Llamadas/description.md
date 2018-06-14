@@ -8,10 +8,10 @@ Y nos pidieron que obtengamos algunas estadísticas:
 > Desarrollá la función `cuandoHabloMas`, que devuelve el momento en que el usuario habló más cantidad de minutos:
 >
 > ```haskell
-> cuandoHabloMas ([1, 1, 3, 5, 1], [32,20,5])
+> ム cuandoHabloMas ([1, 1, 3, 5, 1], [32,20,5])
 > "reducido"
 >
-> cuandoHabloMas ([1, 10, 10], [2])
+> ム cuandoHabloMas ([1, 10, 10], [2])
 > "normal"
 >```
 > 
