@@ -1,9 +1,9 @@
 Ah, no tan rápido, tenemos más requerimientos, similares al anterior. Queremos saber:
 
-* `cuandoHizoMasLlamadas`: en cual de los dos horarios tuvo mayor cantidad de llamadas
-* `cuandoHizoLaLlamadaMasLarga`: en cual de los dos horarios hizo la llamada de mayor duración
-* `cuandoHizoMasLlamadasBreves`: en cual de los dos horarios hizo más llamadas de menos de dos minutos
-* `cuandoHabloMas`: nuestro requerimiento anterior, por supuesto
+* `cuandoHizoMasLlamadas`, que nos dice en cual de los dos horarios tuvo mayor cantidad de llamadas;
+* `cuandoHizoLaLlamadaMasLarga`, que nos permite conocer en cual de los dos horarios hizo la llamada de mayor duración;
+* `cuandoHizoMasLlamadasBreves`, que nos devuelve en cual de los dos horarios hizo más llamadas de menos de dos minutos;
+* `cuandoHabloMas`, nuestro requerimiento anterior, por supuesto
 
 > Escribí las cuatro funciones anteriores
 
