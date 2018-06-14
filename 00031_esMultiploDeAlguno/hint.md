@@ -1,1 +1,1 @@
-Acordate de ```any```. 
+Acordate de la función `any` :wink:. 

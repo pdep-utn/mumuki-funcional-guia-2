@@ -3,7 +3,7 @@ si el número es múltiplo de alguno de los números de la lista. P.ej.
 
 ```haskell
 ム esMultiploDeAlguno 15 [2,3,4] 
-True, 
+True
 ```
 porque 15 es múltiplo de 3 
 
