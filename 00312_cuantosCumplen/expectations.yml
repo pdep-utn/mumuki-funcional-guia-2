@@ -1,10 +1,10 @@
 ---
 expectations:
-- binding: contar
+- binding: cuantosCumplen
   inspection: HasTypeSignature
-- binding: contar
+- binding: cuantosCumplen
   inspection: HasBinding
-- binding: contar
+- binding: cuantosCumplen
   inspection: HasComposition
-- binding: contar
+- binding: cuantosCumplen
   inspection: Not:HasDirectRecursion
