@@ -1,12 +1,12 @@
 ---
 expectations:
-- binding: sumaF
+- binding: sumaPorFunciones
   inspection: HasBinding
-- binding: sumaF
+- binding: sumaPorFunciones
   inspection: HasUsage:aplicarFunciones
 - binding: aplicarFunciones
   inspection: Not:HasBinding
-- binding: sumaF
+- binding: sumaPorFunciones
   inspection: HasComposition
-- binding: sumaF
+- binding: sumaPorFunciones
   inspection: Not:HasDirectRecursion
