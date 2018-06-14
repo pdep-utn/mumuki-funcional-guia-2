@@ -1,10 +1,10 @@
 ---
 expectations:
-- binding: aprobaron
+- binding: quienesAprobaron
   inspection: HasBinding
-- binding: aprobaron
+- binding: quienesAprobaron
   inspection: HasUsage:aprobo
-- binding: aprobaron
+- binding: quienesAprobaron
   inspection: HasUsage:filter
-- binding: aprobaron
+- binding: quienesAprobaron
   inspection: Not:HasDirectRecursion
