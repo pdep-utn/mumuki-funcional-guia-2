@@ -5,4 +5,4 @@ Definí la función `promedios`, que dada una lista que dentro tiene listas de n
 [7,6.67,4,7.5] 
 ```
 
-**Nota**: Asumir que se dispone de una función `average` que devuelve el promedio de una lista
+Dispones en la biblioteca con una función `average` que devuelve el promedio de una lista.
