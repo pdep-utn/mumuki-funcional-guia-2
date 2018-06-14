@@ -1,6 +1,0 @@
----
-expectations:
-- binding: divisores
-  inspection: HasBinding
-- binding: divisores
-  inspection: Not:HasDirectRecursion

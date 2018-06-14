@@ -1,1 +1,0 @@
-Para calcular divisores `n` alcanza con revisar los números entre `1` y `n`.
