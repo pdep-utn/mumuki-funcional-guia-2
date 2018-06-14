@@ -1,4 +1,4 @@
-Definí la función `quienesAprobaron`, que dada la información de un curso devuelve la información de los alumnos que aprobaron. 
+Definí la función `quienesAprobaron`, que dada la información de un curso devuelve la información de los alumnos que aprobaron.
 Por ejemplo:
 
 ```Haskell
@@ -6,4 +6,4 @@ Por ejemplo:
 [[7,9,4,5],[9,6,7,10]]
 ```
 
-**Nota**: asumir que existe la función `aprobo` que dice si un alumo (representado mediante una lista de notas) aprobó, y usarla.
+Asumí que existe la función `aprobo` que hiciste en el ejercicio anterior.
