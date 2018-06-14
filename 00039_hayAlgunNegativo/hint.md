@@ -1,1 +1,0 @@
-Utilizar la función `any`
