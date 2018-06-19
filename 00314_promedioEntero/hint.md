@@ -1,1 +1,0 @@
-Recordá que la división entera es `div`

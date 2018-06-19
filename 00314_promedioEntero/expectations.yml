@@ -1,6 +1,0 @@
----
-expectations:
-- binding: promedioEntero
-  inspection: HasBinding
-- binding: promedioEntero
-  inspection: Not:HasDirectRecursion

@@ -1,8 +1,0 @@
----
-expectations:
-- binding: promedio
-  inspection: HasTypeSignature
-- binding: promedio
-  inspection: HasComposition
-- binding: promedio
-  inspection: Not:HasDirectRecursion
