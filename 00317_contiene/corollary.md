@@ -1,3 +1,3 @@
 ¡Felicitaciones!
 
-Esta funcion ya existe también en Haskell, se llama  `elem`
+Esta funcion ya existe en Haskell y se llama  `elem`.
