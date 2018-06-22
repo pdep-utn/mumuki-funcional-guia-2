@@ -1,1 +1,1 @@
-¿Que pasa si aplicás esta función con una lista vacía?
+Probá que pasa si aplicás esta función con una lista vacía.
