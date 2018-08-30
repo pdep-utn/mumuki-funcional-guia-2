@@ -6,3 +6,5 @@ expectations:
   inspection: HasComposition
 - binding: cuantasMuzzas
   inspection: Not:HasDirectRecursion
+- binding: "*"
+  inspection: Except:DoesTypeTest
