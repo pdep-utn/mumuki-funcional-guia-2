@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: rotar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: rotar
   inspection: HasBinding
-- binding: rotar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: rotar
   inspection: Not:HasDirectRecursion

@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: esCapicua
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esCapicua
   inspection: Not:HasDirectRecursion
-- binding: esCapicua
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esCapicua
   inspection: HasBinding

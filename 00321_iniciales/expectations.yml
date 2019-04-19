@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: iniciales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: iniciales
   inspection: HasBinding
-- binding: iniciales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: iniciales
   inspection: HasComposition
-- binding: iniciales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: iniciales
   inspection: Not:HasDirectRecursion
-- binding: iniciales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: iniciales
   inspection: HasTypeSignature

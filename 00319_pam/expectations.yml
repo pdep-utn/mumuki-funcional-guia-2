@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: pam
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: pam
   inspection: HasBinding
-- binding: pam
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: pam
   inspection: HasTypeSignature
-- binding: pam
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: pam
   inspection: Not:HasDirectRecursion

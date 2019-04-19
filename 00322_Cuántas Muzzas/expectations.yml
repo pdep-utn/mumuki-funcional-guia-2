@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: cuantasMuzzas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuantasMuzzas
   inspection: HasBinding
-- binding: cuantasMuzzas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuantasMuzzas
   inspection: HasComposition
-- binding: cuantasMuzzas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuantasMuzzas
   inspection: Not:HasDirectRecursion
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Except:DoesTypeTest

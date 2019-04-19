@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: rechazar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: rechazar
   inspection: HasBinding
-- binding: rechazar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: rechazar
   inspection: HasTypeSignature
-- binding: rechazar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: rechazar
   inspection: HasComposition
-- binding: rechazar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: rechazar
   inspection: Not:HasDirectRecursion

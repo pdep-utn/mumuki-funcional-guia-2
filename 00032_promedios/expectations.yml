@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: promedios
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: promedios
   inspection: HasBinding
-- binding: promedios
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: promedios
   inspection: HasUsage:map
-- binding: promedios
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: promedios
   inspection: Not:HasDirectRecursion

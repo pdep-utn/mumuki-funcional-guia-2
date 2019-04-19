@@ -1,12 +1,17 @@
 ---
 expectations:
-- binding: alguno
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: alguno
   inspection: HasBinding
-- binding: alguno
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: alguno
   inspection: Not:HasUsage:any
-- binding: alguno
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: alguno
   inspection: Not:HasDirectRecursion
-- binding: alguno
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: alguno
   inspection: Not:HasConditional
-- binding: alguno
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: alguno
   inspection: HasTypeSignature

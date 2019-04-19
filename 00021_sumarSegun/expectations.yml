@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: sumarSegun
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: sumarSegun
   inspection: HasTypeSignature
-- binding: sumarSegun
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: sumarSegun
   inspection: Not:HasDirectRecursion

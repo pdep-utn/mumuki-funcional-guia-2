@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: aprobo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: aprobo
   inspection: HasBinding
-- binding: aprobo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: aprobo
   inspection: HasUsage:all
-- binding: aprobo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: aprobo
   inspection: Not:HasDirectRecursion

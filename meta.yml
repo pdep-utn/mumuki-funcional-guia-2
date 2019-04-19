@@ -3,7 +3,6 @@ name: Práctica Listas
 locale: es
 type: practice
 beta: false
-teacher_info: ''
 language: haskell
 id_format: "%05d"
 order:
@@ -28,3 +27,4 @@ order:
 - 319
 - 320
 - 322
+private: false

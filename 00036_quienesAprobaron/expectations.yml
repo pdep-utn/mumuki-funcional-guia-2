@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: quienesAprobaron
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: quienesAprobaron
   inspection: HasBinding
-- binding: quienesAprobaron
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: quienesAprobaron
   inspection: HasUsage:aprobo
-- binding: quienesAprobaron
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: quienesAprobaron
   inspection: HasUsage:filter
-- binding: quienesAprobaron
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: quienesAprobaron
   inspection: Not:HasDirectRecursion

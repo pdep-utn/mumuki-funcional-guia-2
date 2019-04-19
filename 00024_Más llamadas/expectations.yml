@@ -1,24 +1,35 @@
 ---
 expectations:
-- binding: cuandoHabloMas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHabloMas
   inspection: HasBinding
-- binding: cuandoHizoMasLlamadas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHizoMasLlamadas
   inspection: HasBinding
-- binding: cuandoHizoLaLlamadaMasLarga
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHizoLaLlamadaMasLarga
   inspection: HasBinding
-- binding: cuandoHizoMasLlamadasBreves
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHizoMasLlamadasBreves
   inspection: HasBinding
-- binding: cuandoHizoMasLlamadasBreves
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHizoMasLlamadasBreves
   inspection: HasUsage:length
-- binding: cuandoHabloMas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHabloMas
   inspection: HasUsage:sum
-- binding: cuandoHizoMasLlamadas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHizoMasLlamadas
   inspection: HasUsage:length
-- binding: cuandoHabloMas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHabloMas
   inspection: Not:HasDirectRecursion
-- binding: cuandoHizoMasLlamadas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHizoMasLlamadas
   inspection: Not:HasDirectRecursion
-- binding: cuandoHizoLaLlamadaMasLarga
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHizoLaLlamadaMasLarga
   inspection: Not:HasDirectRecursion
-- binding: cuandoHizoMasLlamadasBreves
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHizoMasLlamadasBreves
   inspection: Not:HasDirectRecursion

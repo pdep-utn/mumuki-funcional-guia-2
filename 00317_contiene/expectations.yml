@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: contiene
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: contiene
   inspection: HasTypeSignature
-- binding: contiene
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: contiene
   inspection: HasBinding
-- binding: contiene
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: contiene
   inspection: Not:HasDirectRecursion

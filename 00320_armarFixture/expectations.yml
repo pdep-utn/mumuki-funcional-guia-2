@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: armarFixture
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: armarFixture
   inspection: HasUsage:zipWith
-- binding: armarFixture
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: armarFixture
   inspection: HasBinding
-- binding: armarFixture
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: armarFixture
   inspection: HasTypeSignature
-- binding: armarFixture
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: armarFixture
   inspection: Not:HasDirectRecursion

@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: cuandoHabloMas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHabloMas
   inspection: HasBinding
-- binding: cuandoHabloMas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuandoHabloMas
   inspection: Not:HasDirectRecursion
