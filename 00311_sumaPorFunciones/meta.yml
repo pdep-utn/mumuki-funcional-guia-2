@@ -1,10 +1,6 @@
 ---
-tags:
-- pdep
-- guia2
-- ordenSuperior
-- listas
-- composicion
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

@@ -1,11 +1,6 @@
 ---
-tags:
-- pdep
-- guia2
-- ordenSuperior
-- listas
-- pointFree
-- prelude
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

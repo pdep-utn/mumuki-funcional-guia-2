@@ -1,9 +1,6 @@
 ---
-tags:
-- pdep
-- guia2
-- ordenSuperior
-- listas
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

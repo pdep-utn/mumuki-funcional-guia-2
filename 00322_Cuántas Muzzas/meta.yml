@@ -1,12 +1,6 @@
 ---
-tags:
-- haskell
-- funcional
-- integrador
-- listas
-- orden superior
-- map
-- filter
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem
